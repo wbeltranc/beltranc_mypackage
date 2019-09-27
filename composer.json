@@ -2,7 +2,7 @@
     "name": "beltranc/mypackage",
     "description": "Example Package",
     "type": "project",
-    "license": "OSL 3.0",
+    "license": "OSL-3.0",
     "authors": [
         {
             "name": "Will Beltran",
